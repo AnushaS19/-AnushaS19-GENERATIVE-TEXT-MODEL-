@@ -35,5 +35,7 @@ This project is released under the MIT License, making it open for anyone to use
 In conclusion, this Generative Text Model is a simple yet powerful demonstration of how AI can understand and generate natural language. It is an excellent project for anyone interested in artificial intelligence, language models, or modern web-based AI tools.
 
 output :
+<img width="1919" height="1003" alt="Image" src="https://github.com/user-attachments/assets/eeb308b3-0893-4a8d-8ded-0669d2ac96e2" />
+<img width="1917" height="995" alt="Image" src="https://github.com/user-attachments/assets/7e3c7aaf-60dd-4c50-8611-2da4850f8c65" />
 
 
